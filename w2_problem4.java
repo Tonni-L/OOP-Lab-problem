@@ -14,7 +14,6 @@ class Singleton {
         return singleInstance;
     }
 }
-
 public class Solution {
 
     public static void main(String[] args) {
